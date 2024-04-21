@@ -1,0 +1,19 @@
+<people>
+ <person>
+  <name>John</name>
+  <surname>Doe</surname>
+  <age>30</age>
+  <gender>Male</gender>
+  <rank>Manager</rank>
+  <salary>50000</salary>
+ </person>
+ <person>
+  <name>Jane</name>
+  <surname>Smith</surname>
+  <age>25</age>
+  <gender>Female</gender>
+  <rank>Developer</rank>
+  <salary>60000</salary>
+ </person>
+ <!-- kolejne osoby -->
+</people>

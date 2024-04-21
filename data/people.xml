@@ -1,0 +1,67 @@
+<people>
+  <person>
+    <name>John</name>
+    <surname>Doe</surname>
+    <age>30</age>
+    <gender>Male</gender>
+    <rank>Manager</rank>
+    <salary>50000</salary>
+  </person>
+  <person>
+    <name>Jane</name>
+    <surname>Smith</surname>
+    <age>25</age>
+    <gender>Female</gender>
+    <rank>Developer</rank>
+    <salary>60000</salary>
+  </person>
+  <person>
+    <name>Michael</name>
+    <surname>Johnson</surname>
+    <age>45</age>
+    <gender>Male</gender>
+    <rank>Senior Engineer</rank>
+    <salary>75000</salary>
+  </person>
+  <person>
+    <name>Emily</name>
+    <surname>Williams</surname>
+    <age>28</age>
+    <gender>Female</gender>
+    <rank>Designer</rank>
+    <salary>55000</salary>
+  </person>
+  <person>
+    <name>David</name>
+    <surname>Brown</surname>
+    <age>35</age>
+    <gender>Male</gender>
+    <rank>Manager</rank>
+    <salary>70000</salary>
+  </person>
+    <person>
+    <name>Sarah</name>
+    <surname>Anderson</surname>
+    <age>33</age>
+    <gender>Female</gender>
+    <rank>Marketing Manager</rank>
+    <salary>68000</salary>
+  </person>
+  <person>
+    <name>Robert</name>
+    <surname>Jones</surname>
+    <age>40</age>
+    <gender>Male</gender>
+    <rank>Software Architect</rank>
+    <salary>85000</salary>
+  </person>
+  <person>
+    <name>Alice</name>
+    <surname>Clark</surname>
+    <age>27</age>
+    <gender>Female</gender>
+    <rank>Data Scientist</rank>
+    <salary>72000</salary>
+  </person>
+  <!-- Można dodać więcej osób w podobnym formacie -->
+</people>
